@@ -10,16 +10,18 @@
 
 * The WiX SDK includes managed and native libraries that make it easier to write code that works with Windows Installer, including custom actions in both C# and C++.
 
+To learn more about WiX see [wixtoolset.org](https://wixtoolset.org).
 
-### Getting involved
 
-* WiX Toolset development takes place in the [`wix` repository](https://github.com/wixtoolset/wix).
+### Community support
 
-* Questions and answers take place on [Discussions](https://github.com/orgs/wixtoolset/discussions)
+Join the volunteers working on the open source project.
+
+* Development takes place in the [`wix` repository](https://github.com/wixtoolset/wix).
+
+* Conversations take place on [Discussions](https://github.com/orgs/wixtoolset/discussions)
 
 * Report issues and feature requests in the [`issues` repository](https://github.com/wixtoolset/issues/issues).
-
-* To learn more about WiX see [wixtoolset.org](https://wixtoolset.org).
 
 
 ### Commercial support
