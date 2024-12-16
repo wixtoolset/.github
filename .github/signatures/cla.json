@@ -439,6 +439,14 @@
       "created_at": "2024-10-18T20:06:22Z",
       "repoId": 49016272,
       "pullRequestNo": 301
+    },
+    {
+      "name": "Nico-Ko",
+      "id": 185339264,
+      "comment_id": 2544735534,
+      "created_at": "2024-12-16T06:45:41Z",
+      "repoId": 366395282,
+      "pullRequestNo": 577
     }
   ]
 }
