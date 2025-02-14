@@ -10,7 +10,7 @@
 
 * The WiX SDK includes managed and native libraries that make it easier to write code that works with Windows Installer, including custom actions in both C# and C++.
 
-To learn more about WiX see [wixtoolset.org](https://wixtoolset.org).
+To learn more about WiX see [www.firegiant.com/wixtoolset/](https://www.firegiant.com/wixtoolset/).
 
 
 ### Community support
@@ -26,6 +26,6 @@ Join the volunteers working on the open source project.
 
 ### Commercial support
 
-For quick and complete responses to questions plus guaranteed bug fixes, [purchase a support contract from FireGiant](https://www.firegiant.com/services/).
+For quick and complete responses to questions plus guaranteed bug fixes, [join FireGiant's WiX Developer Direct](https://www.firegiant.com/wix-developer-direct/).
 
 [![The FireGiant Logo](https://github.com/wixtoolset/.github/blob/master/profile/images/firegiant.png)](https://www.firegiant.com)
