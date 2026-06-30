@@ -19,7 +19,7 @@ To learn more about WiX see [www.firegiant.com/wixtoolset/](https://www.firegian
 
 To ensure the long-term sustainability of this project, use of the WiX Toolset requires an [Open Source Maintenance Fee](https://opensourcemaintenancefee.org). While the source code is freely available under the terms of the [LICENSE](https://github.com/wixtoolset/wix/blob/main/LICENSE.TXT), all other aspects of the project--including opening or commenting on issues, participating in discussions and downloading releases--require [adherence to the Maintenance Fee](https://github.com/wixtoolset/wix/blob/main/OSMFEULA.txt).
 
-In short, if you use this project to generate revenue, the [Maintenance Fee is required](./OSMFEULA.txt).
+In short, if you use this project to generate revenue, the [Maintenance Fee is required](https://github.com/wixtoolset/wix/blob/main/OSMFEULA.txt).
 
 To pay the Maintenance Fee, [become a Sponsor](https://github.com/sponsors/wixtoolset).
 
